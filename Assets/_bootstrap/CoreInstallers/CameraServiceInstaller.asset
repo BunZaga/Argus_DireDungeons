@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5d5c238d0272244c9572d4c1eddd89c, type: 3}
+  m_Name: CameraServiceInstaller
+  m_EditorClassIdentifier: 
+  dependencies:
+  - {fileID: 11400000, guid: 7136e288474f2dc479972ff87be0c613, type: 2}
