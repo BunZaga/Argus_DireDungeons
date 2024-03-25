@@ -7,7 +7,7 @@ https://youtu.be/X08DXMHeon8?si=51yUzeKaQv8_sSco&t=88
 
 There’s a lot of placeholder art in there.  I usually like to get things working first, then make them look pretty. :p  This project is a lot more complicated than the one I’m including, but it’s using a lot of third party assets, so didn’t want to include them.
 
-Most everything inside _bootstrap and _Game I created, aside from the 3d art and animations.
+Most everything inside _bootstrap and _Game I created, aside from the 3d art and animations.  In case the starting scene didn't make it in project settings, it is located in Assets/_Game/Scenes/Bootstrap.unity
 
 Interesting things to note, would be inside _bootstrap and _bootstrap/ZagaCore.  I created several services as well as installers for these services.  I had the thought that after the initial creation of the service, I no longer needed the ‘installer’ to hang around, so created a way for it to quickly load with a dependency injection using RSG Promises (I come from a JS background so like these).  You can see the list by going to Assets/_bootstrap/Prefabs/RootContext prefab.
 
