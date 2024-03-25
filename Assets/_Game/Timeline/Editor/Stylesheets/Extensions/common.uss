@@ -1,0 +1,27 @@
+MovementLock
+{
+   width:20px;
+   height:20px;
+   background-image: resource("Assets/_Game/Timeline/Editor/movement_lock.png");
+}
+
+MovementUnLock
+{
+   width:20px;
+   height:20px;
+   background-image: resource("Assets/_Game/Timeline/Editor/movement_unlock.png");
+}
+
+ActionLock
+{
+   width:20px;
+   height:20px;
+   background-image: resource("Assets/_Game/Timeline/Editor/action_lock.png");
+}
+
+ActionUnLock
+{
+   width:20px;
+   height:20px;
+   background-image: resource("Assets/_Game/Timeline/Editor/action_unlock.png");
+}

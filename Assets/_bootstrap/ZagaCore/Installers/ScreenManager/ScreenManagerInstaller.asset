@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10b86dd4a926bce4fb2b50a4377fbc1a, type: 3}
+  m_Name: ScreenManagerInstaller
+  m_EditorClassIdentifier: 
+  dependencies:
+  - {fileID: 11400000, guid: 337b656f64196bd4e8e36457b851a6de, type: 2}
+  - {fileID: 11400000, guid: 42f348a0511350f43836513e674c56de, type: 2}
+  - {fileID: 11400000, guid: 3cf9cd7feff4a8946aaae82912d1294b, type: 2}
